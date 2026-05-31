@@ -66,6 +66,12 @@ Questo è uno dei miei primissimi progetti: semplice, basilare, ma funzionante.
 
 ---
 
-## 👩‍💻 Autrice
+👩‍💻 Autrice
+[Cristina Buffone]
 
-**Cristina** — [GitHub](https://github.com/crimlb)
+GitHub: @crimlb
+LinkedIn: linkedin.com/in/cristina-buffone-576893316/
+Email: crimlb87@gmail.com
+
+📄 Licenza
+Questo progetto è a scopo didattico e di portfolio. Non è consentito il riutilizzo del codice senza autorizzazione.
