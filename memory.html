@@ -10,16 +10,21 @@
 </head>
 
 <body>
-    <!-- <div> -->
-        <span class="countdown" id="timer">Countdown: 3:00</span>
-        <button class="fermaTimer" id="IdFermaTimer" onclick="fermaTimer()">Stop</button>
-        <h1 class="titolo">MEMORY</h1>
-        <button id="idBtnRegolamento" onclick="regolamento()">i</button>
-        
-        <button class="volume" id="toggleMusic" onclick="musicaOnOff()">
-                <img src="volume10Blu.svg" width="50" height="50" title="volume"></button>
-
-    <!-- </div> -->
+    <header class="header">
+        <div class="header-left">
+            <span class="countdown" id="timer">Countdown: 3:00</span>
+            <button class="fermaTimer" id="IdFermaTimer" onclick="fermaTimer()">Stop</button>
+        </div>
+        <div class="header-center">
+            <h1 class="titolo">MEMORY</h1>
+        </div>
+        <div class="header-right">
+            <button id="idBtnRegolamento" onclick="regolamento()">i</button>
+            <button class="volume" id="toggleMusic" onclick="musicaOnOff()">
+                <img src="volume10Blu.svg" title="volume">
+            </button>
+        </div>
+    </header>
 
     <div class="griglia">
         <!-- 30 carte -->
